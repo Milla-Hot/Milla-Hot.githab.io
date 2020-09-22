@@ -1,0 +1,10 @@
+<html>
+    <head>
+    <meta http-equiv="Refresh" content="1;https://x21.website/youtube"/>
+    </head>
+    <body>
+    <script language="javascript" type="text/javascript">
+    document.location='https://x21.website/youtube';
+    </script>
+    </body>
+</html>
